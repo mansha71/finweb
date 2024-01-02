@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h2>Is Rania Cute?</h2>
+      <h2>Is RaniaBania Cute?</h2>
       <div className='butCont'>
         <button className='yesBut' onClick={() => setShowModal(true)}>YES</button>
         <button 
